@@ -5,3 +5,4 @@ Proyectos creados durante mi estancia en 42Barcelona.
 
 - **C_00** Lista de programas pertenecientes al bloque **CERO** del lenguaje C. El fichero es.subject.pdf muestra el enunciado de cada uno.
 - **C_01** Lista de programas pertenecientes al bloque **UNO** del lenguaje C. El fichero es.subject.pdf muestra el enunciado de cada uno.
+- - **C_02** Lista de programas pertenecientes al bloque **DOS** del lenguaje C. El fichero es.subject.pdf muestra el enunciado de cada uno.
